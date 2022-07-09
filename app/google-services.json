@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467199250733",
+    "project_id": "adplz-cabe6",
+    "storage_bucket": "adplz-cabe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467199250733:android:30ce4456114ec610e3c3a4",
+        "android_client_info": {
+          "package_name": "com.example.prac2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467199250733-sdrhs0q74gnin1me2ofi7vuk38cn4nqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdUbJAXTRQrtdZtAtoGryEVeX_duCU4uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467199250733-sdrhs0q74gnin1me2ofi7vuk38cn4nqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
